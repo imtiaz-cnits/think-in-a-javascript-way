@@ -1,1 +1,4 @@
 01. Scopes - 
+    - JS এ child var parent var এর value manipulate বা পরিবর্তন করতে পারে। যদি function এর ভিতরে var keyword ছাড়া direct কোন value assign করা হয়। যেমন - x = 10;
+    - 'use strict';
+    - 
